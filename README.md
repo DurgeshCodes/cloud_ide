@@ -109,6 +109,3 @@ docker run -it -v $(pwd)/user_projects/project123:/workspace cloudide-runner
 MIT – do whatever you want.
 
 ---
-
-Let me know if you'd like a version with GitHub badges or want to publish this as a template repo.
-Shall we move on to building the `ContainerManager` Python class now?
