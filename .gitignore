@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.log
+*.sqlite3
+*.env
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+.env
+config/__pycache__/
+core/__pycache__/
+
+# Pipenv
+Pipfile.lock
+
+# Docker
+*.pid
+*.tar
+docker-compose.override.yml
+
+# VSCode & JetBrains IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Websocket reconnect artifacts
+*.swp
+*.tmp
+
+# User project folders (they are dynamic)
+user_projects/
